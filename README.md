@@ -37,7 +37,7 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=AntonLaid&top_languages=true)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAntonLiad&countColor=%23263759)
+![](https://komarev.com/ghpvc/?username=AntonLiad)
 
 ## 🎥 Video
 
