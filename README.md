@@ -37,6 +37,8 @@
 
 ![Codewars](https://github.r2v.ch/codewars?user=AntonLaid&top_languages=true)
 
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge)
+
 ## 🎥 Video
 
 <a href="https://www.youtube.com/channel/UCfeHUSxfFiVXFLncD17wW_g" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
