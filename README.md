@@ -45,8 +45,11 @@
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-![Codewars](https://github.r2v.ch/codewars?user=AntonLaid&top_languages=true)
 
-![](https://komarev.com/ghpvc/?username=AntonLiad)
+<br />
+<img src="https://komarev.com/ghpvc/?username=AntonLiad" alt="stats" />
+<img src="https://www.codewars.com/users/AntonLaid/badges/micro" alt="codewars" />
+<br />
+
 
 
